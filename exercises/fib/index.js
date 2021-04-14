@@ -9,5 +9,5 @@
 //   fib(4) === 3
 
 function fib(n) {}
-
+console.log(n)
 module.exports = fib;
